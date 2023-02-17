@@ -1,0 +1,15 @@
+C:\Users\vusal\source\repos\1st PROJECT\1st PROJECT\bin\Debug\1st PROJECT.exe.config
+C:\Users\vusal\source\repos\1st PROJECT\1st PROJECT\bin\Debug\1st PROJECT.exe
+C:\Users\vusal\source\repos\1st PROJECT\1st PROJECT\bin\Debug\1st PROJECT.pdb
+C:\Users\vusal\source\repos\1st PROJECT\1st PROJECT\obj\Debug\1st PROJECT.csproj.AssemblyReference.cache
+C:\Users\vusal\source\repos\1st PROJECT\1st PROJECT\obj\Debug\1st PROJECT.csproj.SuggestedBindingRedirects.cache
+C:\Users\vusal\source\repos\1st PROJECT\1st PROJECT\obj\Debug\_1st_PROJECT.Form1.resources
+C:\Users\vusal\source\repos\1st PROJECT\1st PROJECT\obj\Debug\_1st_PROJECT.Form2.resources
+C:\Users\vusal\source\repos\1st PROJECT\1st PROJECT\obj\Debug\_1st_PROJECT.Properties.Resources.resources
+C:\Users\vusal\source\repos\1st PROJECT\1st PROJECT\obj\Debug\1st PROJECT.csproj.GenerateResource.cache
+C:\Users\vusal\source\repos\1st PROJECT\1st PROJECT\obj\Debug\1st PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\vusal\source\repos\1st PROJECT\1st PROJECT\obj\Debug\1st PROJECT.exe
+C:\Users\vusal\source\repos\1st PROJECT\1st PROJECT\obj\Debug\1st PROJECT.pdb
+C:\Users\vusal\source\repos\1st PROJECT\1st PROJECT\obj\Debug\_1st_PROJECT.Form3.resources
+C:\Users\vusal\source\repos\1st PROJECT\1st PROJECT\obj\Debug\_1st_PROJECT.Form4.resources
+C:\Users\vusal\source\repos\1st PROJECT\1st PROJECT\obj\Debug\_1st_PROJECT.Form5.resources
