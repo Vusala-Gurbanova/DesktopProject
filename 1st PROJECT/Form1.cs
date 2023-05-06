@@ -32,25 +32,28 @@ namespace _1st_PROJECT
 
             string check = ("Select * from USERS where USERNAME= '" + textBox1.Text + "' and PASSWORD = '" + textBox2.Text + "'");                      
 
-            SqlDataAdapter data = new SqlDataAdapter(check, con);
-
-            DataTable table = new DataTable();
-
-            data.Fill(table); 
+            SqlCommand cmd = new SqlCommand(check, con);
             
-            if(table.Rows.Count == 1)
+            //SqlDataAdapter data = new SqlDataAdapter(check, con);
+
+            SqlDataReader dr = cmd.ExecuteReader();           
+           
+           
+            
+            while(dr.Read())
             {
-                int loggedUserID = Convert.ToInt32(table.Rows[0][0]);                
+                int loggedUserID = Convert.ToInt32(dr["ID"]);                
                 Form3 frm3 = new Form3(loggedUserID);
                 
                 this.Hide();
                 frm3.Show();
             }
-            else
+
+            if (!dr.HasRows)
             {
                 MessageBox.Show("Please check username/password or register");
             }
-                     
+                                
                        
        
         }

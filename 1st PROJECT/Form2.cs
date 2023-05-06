@@ -53,9 +53,8 @@ namespace _1st_PROJECT
                 con.Close();
                 con.Dispose();
             }
-            con.Close();
-            this.Hide();
-            con.Dispose();
+            
+            this.Hide();           
 
 
             Form1 frm1 = new Form1();
